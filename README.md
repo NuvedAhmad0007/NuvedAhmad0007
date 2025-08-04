@@ -1,4 +1,3 @@
-![logo](https://github.com/KrishnaSingh0001/KrishnaSingh0001/blob/main/image%20(10).jpg)
 <h1 align="center">Hi 👋, I'm Nuved Ahmad</h1>
 <h3 align="center">I am a 4th year dedicated Computer Science engineering student</h3>
 
