@@ -20,24 +20,29 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<!-- Instagram -->
 <a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="40" alt="Instagram"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
 </a>
 
+<!-- CodeChef -->
 <a href="https://www.codechef.com/users/rebel_0007" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="30" width="40" alt="CodeChef"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
 </a>
 
+<!-- HackerRank -->
 <a href="https://www.hackerrank.com/profile/nuvedahmad953" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
 
+<!-- LeetCode -->
 <a href="https://leetcode.com/u/Nuved_Ahmad/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="40" alt="LeetCode"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 
+<!-- GeeksforGeeks -->
 <a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="30" width="40" alt="GeeksforGeeks"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 
 </p>
@@ -56,9 +61,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/>
 
 <!-- Optional: Add Tailwind CSS, HTML, CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/> -->
 
 </p>
 
