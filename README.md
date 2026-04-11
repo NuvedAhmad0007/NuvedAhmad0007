@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, AI/ML, Web Development**
-- 📫 Reach me at **nuvedahmad953@gmail.com**
+- 📫 Reach out me at: **nuvedahmad953@gmail.com**
 - ⚡ Fun fact: **I am Always a Learner 😊**
 
 ---
@@ -16,14 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
+<!-- Instagram -->
+<a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
+</a>
+
 <!-- CodeChef -->
 <a href="https://www.codechef.com/users/rebel_0007" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-
-<!-- GeeksforGeeks -->
-<a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 
 <!-- HackerRank -->
@@ -36,9 +36,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
+<!-- GeeksforGeeks -->
+<a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
 </a>
 
 </p>
