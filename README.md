@@ -17,32 +17,27 @@
 
 ---
 
-## 🌐 Connect With Me  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<!-- Instagram -->
 <a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="40" alt="Instagram"/>
 </a>
 
-<!-- CodeChef -->
 <a href="https://www.codechef.com/users/rebel_0007" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="35"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="30" width="40" alt="CodeChef"/>
 </a>
 
-<!-- HackerRank -->
 <a href="https://www.hackerrank.com/profile/nuvedahmad953" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="30" width="40" alt="HackerRank"/>
 </a>
 
-<!-- LeetCode -->
 <a href="https://leetcode.com/u/Nuved_Ahmad/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="30" width="40" alt="LeetCode"/>
 </a>
 
-<!-- GeeksforGeeks -->
 <a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/>
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" height="30" width="40" alt="GeeksforGeeks"/>
 </a>
 
 </p>
@@ -52,18 +47,18 @@
 ## 🛠️ Languages and Tools  
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
-
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+<!-- Optional: Add Tailwind CSS, HTML, CSS -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
 
 </p>
 
