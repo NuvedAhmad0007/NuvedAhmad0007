@@ -1,76 +1,100 @@
-<h1 align="center"> Hi 👋, I'm Nuved Ahmad</h1>
-<h3 align="center"> I am Final Year Computer Science & Engineering Student | AI & Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Nuved Ahmad</h1>
+<h3 align="center">I am a Final Year Computer Science & Engineering Student | AI & Backend Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=NuvedAhmad0007&label=Profile%20views&color=0e75b6&style=flat" alt="NuvedAhmad0007" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NuvedAhmad0007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, AI/ML, Web Development**
-- 📫 Reach out me at: **nuvedahmad953@gmail.com**
+---
+
+### 🚀 About Me  
+- 🎓 I’m currently learning Data Structure and Algorithm , AI/ML and Web Development.
+- 💡 Passionate about **AI, Backend Development, and System Design**   
+- 📫 Reach out me at: **nuvedahmad953@gmail.com**  
 - ⚡ Fun fact: **I am Always a Learner 😊**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect With Me  
 <p align="left">
 
-<!-- Instagram - FIXED -->
+<!-- Instagram -->
 <a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35"/>
 </a>
 
-<!-- CodeChef - FIXED -->
+<!-- CodeChef -->
 <a href="https://www.codechef.com/users/rebel_0007" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="35"/>
 </a>
 
-<!-- HackerRank - FIXED -->
+<!-- HackerRank -->
 <a href="https://www.hackerrank.com/profile/nuvedahmad953" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/>
 </a>
 
-<!-- LeetCode - FIXED -->
+<!-- LeetCode -->
 <a href="https://leetcode.com/u/Nuved_Ahmad/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
 </a>
 
-<!-- GeeksforGeeks - FIXED -->
+<!-- GeeksforGeeks -->
 <a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="35"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
+## 🛠️ Languages and Tools  
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NuvedAhmad0007&show_icons=true&locale=en&layout=compact" alt="NuvedAhmad0007" />
+## 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NuvedAhmad0007&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuvedAhmad0007&theme=tokyonight"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NuvedAhmad0007&show_icons=true&locale=en" alt="NuvedAhmad0007" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuvedAhmad0007&layout=compact&theme=tokyonight"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NuvedAhmad0007" alt="NuvedAhmad0007" />
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NuvedAhmad0007&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
 </p>
+
+---
+
+## 🚀 Featured Projects  
+### 🔹 **Live FO Trading Signals**  
+Spring Boot backend for real-time data, EMA-based signals, and concurrent processing.
+
+### 🔹 **Student Dropout Prediction**  
+ML model integrated with Looker Studio dashboards.
+
+---
+
+### ⭐ "I build reliable, scalable and efficient systems — always learning, always growing."
