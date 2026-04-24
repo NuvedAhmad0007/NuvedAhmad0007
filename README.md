@@ -18,52 +18,64 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-<!-- Instagram -->
-<a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="40" />
-</a>
+<p align="left" style="display: flex; gap: 15px; align-items: center;">
 
-<!-- CodeChef -->
-<a href="https://www.codechef.com/users/rebel_0007" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/nuvedahmad7395/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" />
+  </a>
 
-<!-- HackerRank -->
-<a href="https://www.hackerrank.com/profile/nuvedahmad953" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/rebel_0007" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" />
+  </a>
 
-<!-- LeetCode -->
-<a href="https://leetcode.com/u/Nuved_Ahmad/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/nuvedahmad953" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" />
+  </a>
 
-<!-- GeeksforGeeks -->
-<a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Nuved_Ahmad/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/nuvedahnedp" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" />
+  </a>
 
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools  
-<p align="left">
+<p align="left" style="display:flex; flex-wrap: wrap; gap: 12px;">
 
+<!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" alt="Java"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/>
+<!-- Web Development -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React"/>
 
-<!-- Optional: Add Tailwind CSS, HTML, CSS -->
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" alt="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3"/> -->
+<!-- Backend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/>
+
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/>
+
+<!-- Tools -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" alt="Postman"/>
 
 </p>
 
@@ -71,24 +83,40 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NuvedAhmad0007&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuvedAhmad0007&theme=tokyonight"/>
+  <!-- Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NuvedAhmad0007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <!-- Streak -->
+  <img height="170" src="https://streak-stats.demolab.com?user=NuvedAhmad0007&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuvedAhmad0007&layout=compact&theme=tokyonight"/>
+  <!-- Top Languages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuvedAhmad0007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NuvedAhmad0007&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NuvedAhmad0007&theme=tokyonight&no-frame=true&row=1&margin-w=25"/>
 </p>
+---
 
+## 🟩 Contribution Activity Graph   
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NuvedAhmad0007&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+## 🐍 Animated Snake Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NuvedAhmad0007/NuvedAhmad0007/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 ---
 
 ## 🚀 Featured Projects  
+
 ### 🔹 **Live FO Trading Signals**  
 Spring Boot backend for real-time data, EMA-based signals, and concurrent processing.
 
