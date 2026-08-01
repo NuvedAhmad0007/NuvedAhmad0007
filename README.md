@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuved Ahmad</h1>
-<h3 align="center">I am a Final Year Computer Science & Engineering Student | AI & Backend Developer</h3>
+<h3 align="center">I am a Recent Graduated Computer Science & Engineering Student | AI & Backend Developer</h3>
 
 <img align="right" alt="Coding" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
